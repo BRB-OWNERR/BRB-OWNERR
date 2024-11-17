@@ -1,4 +1,4 @@
-## Hi there 👋
+## กูว่าแล้วมึงต้องอ่าน 👋
 
 <!--
 **BRB-OWNERR/BRB-OWNERR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Telegram - https://t.me/MRHACKER_PRENIUM
+Website - https://linktr.ee/LKTEAM_OFC
